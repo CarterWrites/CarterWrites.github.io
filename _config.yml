@@ -19,7 +19,7 @@ gridlayout: false # change to true if you want grd layout
 header_text: Here We Go Again
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: assets/img/trees.jpg
+header_feature_image: assets/images/trees.jpg
 >>>>>>> cede6797706081cca49eeb54916b62cf46461cd4
 twitter_username: CarterWrites  #change to your own twitter account
 lang: en_gb
