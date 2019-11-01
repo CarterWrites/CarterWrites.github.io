@@ -20,7 +20,7 @@ This is an experimentation to see how one girl can fair in a world of random let
 So, I started today waking up at 7:30am. I then spent 3 hours on setting up a BASIC format which was already mostly done for me. Thankfully, I have been well fed through Maccy Ds' so the rage levels are low.
 ## Here is a an image
 
-[![Here is my current reaction](/assets/img/confusion.jpg)](/assets/img/confusion.jpg)
+[![Here is my current reaction](/assets/img/Confusion.jpg)](/assets/img/Confusion.jpg)
 
 At this point, I am randomly typing - hoping that this will translate into a post which I can call my own. However, it might not even appear or resemble anything that I thought it would.
 * Why do I need bullet points now?
